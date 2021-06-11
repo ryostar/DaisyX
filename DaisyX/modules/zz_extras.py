@@ -1,4 +1,4 @@
-__mod_name__ = "🛠 Extras"
+__mod_name__ = "🛠 Bổ sung"
 __help__ = """
 The module that contains extra tools that help you to do many cool stuff.
 
@@ -48,11 +48,11 @@ Usage: Create a paste or a shortened url using nekobin (https://nekobin.com)
 - /makeqr - Make a qr code.
   
 <b> KARMA </b>
-[UPVOTE] - Use upvote keywords like "+", "+1", "thanks" etc to upvote a message.
-[DOWNVOTE] - Use downvote keywords like "-", "-1", etc to downvote a message.
+[UPVOTE] - Sử dụng các từ khóa ủng hộ như "+", "+1", "thanks", v.v. để ủng hộ một tin nhắn.
+[DOWNVOTE] - Sử dụng các từ khóa phản đối như "-", "-1", v.v. để phản đối một tin nhắn.
 
-- /karma [ON/OFF]: Enable/Disable karma in group. 
-- /karma [Reply to a message]: Check user's karma
-- /karma: Chek karma list of top 10 users
-        
+- /karma [ON/OFF]: Bật/Tắt nghiệp trong nhóm.
+- /karma [Trả lời tin nhắn]: Kiểm tra nghiệp của người dùng
+- /karma: Chek karma danh sách 10 người dùng hàng đầu
+      
 """
